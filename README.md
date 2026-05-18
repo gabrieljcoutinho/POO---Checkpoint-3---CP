@@ -2,11 +2,10 @@
 
 ## 📋 Informações do Aluno
 
-- **Nome:** [Seu Nome Completo]
-- **RM:** [Seu RM]
-- **Turma:** [Sua Turma]
+- **Nome:** Gabriel Jorge Coutinho
+- **RM:** 565441
+- **Turma:** 2CCPW
 - **Curso:** Análise e Desenvolvimento de Sistemas / Engenharia de Software
-- **GitHub:** [@seu-usuario]
 
 ---
 
