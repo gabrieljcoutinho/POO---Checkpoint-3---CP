@@ -1,4 +1,4 @@
-# Projeto FiapRide - [Seu Nome Completo]
+# Projeto FiapRide - Gabriel Jorge Coutinho
 
 ## 📋 Informações do Aluno
 
